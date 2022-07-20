@@ -1,0 +1,47 @@
+Movie Analysis
+
+Group members:
+Marcus Garnham, Henrique Treve, Ruchi Sharma, Kouame Kouassi, Shola 
+
+Outline:
+We will be analysing what makes films successful in the New Millennium Era/Period of films. Which are films produced in after the 1990’s. We will be analysing what makes films successful either ratings wise or profitability wise. This will make the data very useful for those just starting or want to be apart of the movie industry or even those who are in the movie industry. We will specifically be looking at USA movies.
+
+Questions:
+(1) Do movies become profitable the longer the runtime is?
+(2) Are different genres more profitable than other genres?
+(3) Does the runtime of the movie affect the public rating it gets?
+(4) Does the genre of a movie determine or affects its public rating?
+(5)Do the fan reviews per genre in the entire time period affect the worldwide gross incomes? 
+(6)are there movie directors that are more favoured, how good are the movies they have directed so far and their career overall?
+(7) Does the time of year the movie gets released affect the profitability the movie?
+
+
+Task Breakdown:
+Data Cleaning: Kouame Kouassi
+Visualization/plots: split amongst the group
+Code commenting: based on who wrote the code
+Final presentation PowerPoint: Kouame Kouassi, Proofread by group
+
+
+
+
+
+
+Links:
+IMDB Movies Dataset | Kaggle
+Netflix Movies and TV Shows | Kaggle
+The Movies Dataset | Kaggle
+Top 1000 Highest Grossing Movies | Kaggle
+TMDB 5000 Movie Dataset | Kaggle
+
+
+Keywords for project;
+Movie analysis
+
+1. Profits and runtime
+2. Genres and profits
+3. Runtime and public rating
+4. Genres and  public rating
+5. Fan reviews and world wide gross income
+6. Directors, movies and career
+7. Release date and profits
