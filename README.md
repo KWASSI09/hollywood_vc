@@ -3,9 +3,12 @@
 In this project, we analysed Movies made in the USA between 2000 and 2020, focusing on various factors of their international successes. Elements of the study include film genre, profit, directors, runtime, public rating, and fan reviews, on which we performed correlation and interdependence analyses. We also analysed what makes films successful both in terms of ratings and profitability to generate valuable insights for anyone interested in entering the cinema world or even those who already work in the sector.
 
 A Google search for Box Office Data Analysis revealed a public dataset that contains the raw data we used:
-Kaggle compiled the ratings and metadata of over 45,000 movies in their Movies dataset, from which we used the TMDB 5000 Movie Dataset.csv.zip file
+Kaggle compiled the ratings and metadata of over 45,000 movies in their Movies dataset, from which we used the TMDB 5000 Movie Dataset.csv.zip file.
 
 # The questions we answered are the following:
+
+
+The questions we answered are the following:
 
 1.Do movies become profitable with a longer runtime?
 2.Are different genres more profitable than other genres?
