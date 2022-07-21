@@ -5,18 +5,20 @@ In this project, we analysed Movies made in the USA between 2000 and 2020, focus
 A Google search for Box Office Data Analysis revealed a public dataset that contains the raw data we used:
 Kaggle compiled the ratings and metadata of over 45,000 movies in their Movies dataset, from which we used the TMDB 5000 Movie Dataset.csv.zip file
 
-# The questions we answered are the following:
-1.Do movies become profitable with a longer duration?
-2.Are different genres more profitable than other genres?
-3.Does the length of the film affect the audience's assessment?
-4.Does the genre of a film determine or affect its public assessment and duration?
-5.Do fan reviews by genre affect global gross revenue?
-6.are there directors who are more favorites, how good are the films they have directed so far and their career in general?
-7.Does the film release time affect the profitability of the film?
+The questions we answered are the following:
 
+1.Do movies become profitable with a longer duration?/n
+2.Are different genres more profitable than other genres?/n
+3.Does the length of the film affect the audience's assessment?/n
+4.Does the genre of a film determine or affect its public assessment and duration?/n
+5.Do fan reviews by genre affect global gross revenue?/n
+6.are there directors who are more favorites, how good are the films they have directed so far and their career in general?/n
+7.Does the film release time affect the profitability of the film?/n
 
-# Project Members:
+Project Members:
 . Kouamé Kouassi
 . Ruchi Sharma
 . Shola Daropale
 . Marcus William Garnham
+
+
