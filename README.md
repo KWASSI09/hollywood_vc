@@ -11,15 +11,15 @@ Kaggle compiled the ratings and metadata of over 45,000 movies in their Movies d
 The questions we answered are the following:
 
 1.Do movies become profitable with a longer runtime?<br>
-2.Are different genres more profitable than other genres?
-3.Does the runtime of the film affect the average vote?
-4.Does the genre of a film determine or affect its average vote and runtime?
-5.Do fan reviews by genre affect global gross revenue?
-6.are there directors who are more favorites, how good are the films they have directed so far and their career in general?
-7.Does the film release time affect the profitability of the film?
+2.Are different genres more profitable than other genres?<br>
+3.Does the runtime of the film affect the average vote?<br>
+4.Does the genre of a film determine or affect its average vote and runtime?<br>
+5.Do fan reviews by genre affect global gross revenue?<br>
+6.are there directors who are more favorites, how good are the films they have directed so far and their career in general?<br>
+7.Does the film release time affect the profitability of the film?<br>
 
 # Project Members:
-. Kouamé Kouassi
-. Ruchi Sharma
-. Shola Daropale
-. Marcus William Garnham
+. Kouamé Kouassi<br>
+. Ruchi Sharma<br>
+. Shola Daropale<br>
+. Marcus William Garnham<br>
