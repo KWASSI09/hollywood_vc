@@ -10,7 +10,7 @@ Kaggle compiled the ratings and metadata of over 45,000 movies in their Movies d
 
 The questions we answered are the following:
 
-1.Do movies become profitable with a longer runtime?
+1.Do movies become profitable with a longer runtime?<br>
 2.Are different genres more profitable than other genres?
 3.Does the runtime of the film affect the average vote?
 4.Does the genre of a film determine or affect its average vote and runtime?
