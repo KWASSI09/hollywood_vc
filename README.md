@@ -16,7 +16,7 @@ The questions we answered are the following:
 3.Does the runtime of the film affect the average vote?<br>
 4.Does the genre of a film determine or affect its average vote and runtime?<br>
 5.Do fan reviews by genre affect global gross revenue?<br>
-6.are there directors who are more favorites, how good are the films they have directed so far and their career in general?<br>
+6.Are there directors who are more favorites, how good are the films they have directed so far and their career in general?<br>
 7.Does the film release time affect the profitability of the film?<br>
 
 # Project Members:
