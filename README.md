@@ -1,4 +1,4 @@
-![](Movies_project/blob/main/Images/EOQ_tMzWAAIWpoV.jpg)
+![](Images/EOQ_tMzWAAIWpoV.jpg)
 # Movie_analysis
 
 In this project, we analysed Movies made in the USA between 2000 and 2020, focusing on various factors of their international successes. Elements of the study include film genre, profit, directors, runtime, public rating, and fan reviews, on which we performed correlation and interdependence analyses. We also analysed what makes films successful both in terms of ratings and profitability to generate valuable insights for anyone interested in entering the cinema world or even those who already work in the sector.
